@@ -15,7 +15,7 @@ import (
 	"google.golang.org/appengine/datastore"
 	"google.golang.org/appengine/memcache"
 
-	"github.com/dsoprea/go-appengine-logging"
+	"github.com/dsoprea/go-logging"
 	gcontext "github.com/gorilla/context"
 	"github.com/gorilla/securecookie"
 	"github.com/gorilla/sessions"
